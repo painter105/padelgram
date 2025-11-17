@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# pylint: disable=unused-argument
 # This program is dedicated to the public domain under the CC0 license.
 
 """
@@ -13,6 +12,7 @@ Send /start to initiate the conversation.
 Press Ctrl-C on the command line or send a signal to the process to stop the
 bot.
 """
+
 import os
 
 from dotenv import load_dotenv
@@ -30,6 +30,7 @@ from telegram.ext import (
     MessageHandler,
     filters,
 )
+
 
 load_dotenv()  # take environment variables
 
