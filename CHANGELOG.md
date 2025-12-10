@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.3](https://github.com/painter105/padelgram/compare/v0.2.2...0.2.3) (2025-12-10)
+
+
+### Bug Fixes
+
+* Update README.md ([f9ca704](https://github.com/painter105/padelgram/commit/f9ca704ab1960c5ac652efe8b3e604dbced3f9c8))
+* Update README.md ([21ad5c7](https://github.com/painter105/padelgram/commit/21ad5c79626b0d0ccf20cd628e85c86efffe6e8b))
+
 ## [0.2.3](https://github.com/painter105/padelgram/compare/v0.2.2...v0.2.3) (2025-12-10)
 
 
