@@ -1,3 +1,3 @@
 # Welkom
 
-WIP
+This project is still WIP and will probably always be.
